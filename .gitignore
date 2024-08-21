@@ -1,0 +1,12 @@
+メモ.txt
+memo.txt
+GTAのセーブファイルから拡張子.tmpを削除する.exe
+
+[Bb]in/
+[Rr]elease/
+[Dd]ebug/
+x64/
+packages/
+.vs/
+inc/
+lib/
